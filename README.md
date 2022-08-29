@@ -3,7 +3,7 @@
 * Excel - userform (login+password) and offset function
 
 
-![](/Portfolio/visuals/excel/userform+offset1.png?raw=true "title")
+![](visuals/excel/userform+offset1.png)
 
 ![](https://github.com/Ciachula/Portfolio/visuals/excel/userform+offset1.png)
 
