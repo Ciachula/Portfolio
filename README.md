@@ -40,7 +40,6 @@ Else
 MsgBox "Invalid login credentials, Please try again", vbOKOnly + vbCritical, "Error during login phase"
 End If
 
-
 Private Sub Workbook_BeforeClose(Cancel As Boolean)
 Application.ScreenUpdating = False
 Worksheets("Sheet1").Visible = xlVeryHidden
