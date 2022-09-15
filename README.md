@@ -10,7 +10,7 @@
 <summary>Power BI</summary>
 <br>
 
-- Making visualization by using various datasets [[Power BI visualization here.]](https://github.com/Ciachula/Portfolio/power_bi)
+- Making visualization by using various datasets [[Power BI visualization here.]](https://github.com/Ciachula/Portfolio/tree/main/power_bi)
 <img width="1000" alt="userform+offset1" src="https://user-images.githubusercontent.com/31890259/190378506-3f2988b4-ba31-4572-b002-b7ae527cc8ae.png">
 <hr>
 <img width="1000" alt="userform+offset1" src="https://user-images.githubusercontent.com/31890259/190377586-9e346bb7-735a-44e8-9d99-1b58c82794a3.png">
@@ -26,7 +26,7 @@
 <summary>Excel + VBA</summary>
 <br>
 
-- Userform (login+password - VBA) and offset function [[Excel file here.]](https://github.com/Ciachula/Portfolio/excel)
+- Userform (login+password - VBA) and offset function [[Excel file here.]](https://github.com/Ciachula/Portfolio/tree/main/excel)
 <img width="854" alt="userform+offset1" src="https://user-images.githubusercontent.com/31890259/187172384-016f4a0f-179d-4783-bdf5-b6e602626db0.PNG">
 <br>
 
@@ -72,13 +72,13 @@ End Sub
 <br>
 <hr>
 
-- LOOKUP, INDEX + MATCH, SUMIFS [[Excel file here.]](https://github.com/Ciachula/Portfolio/excel)
+- LOOKUP, INDEX + MATCH, SUMIFS [[Excel file here.]](https://github.com/Ciachula/Portfolio/tree/main/excel)
 <img width="850" alt="Customer_Quote" src="https://user-images.githubusercontent.com/31890259/188129364-01ea1faf-f8df-4b7c-868b-69d3c483da30.PNG">
 <img width="850" alt="Discount_Matrix" src="https://user-images.githubusercontent.com/31890259/188139323-b5c57b1c-0be9-4be2-b168-ea8aa5a3635d.PNG">
 <br>
 <hr>
   
-- Data modeling using Solver [[Excel file here.]](https://github.com/Ciachula/Portfolio/excel)
+- Data modeling using Solver [[Excel file here.]](https://github.com/Ciachula/Portfolio/tree/main/excel)
 <img width="850" alt="Solver" src="https://user-images.githubusercontent.com/31890259/188129477-32cce196-0609-4f29-b829-57603ad15a5c.PNG">
 <hr>
 </details>
