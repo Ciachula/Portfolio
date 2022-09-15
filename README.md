@@ -13,7 +13,8 @@
 - Making visualization by using various datasets [[Power BI visualization here.]](https://github.com/Ciachula/Portfolio/tree/main/power_bi)
 <img width="1000" alt="userform+offset1" src="https://user-images.githubusercontent.com/31890259/190378506-3f2988b4-ba31-4572-b002-b7ae527cc8ae.png">
 <hr>
-- Private message for Power BI visualization
+  
+- Private message for Power BI visualization below
 <img width="1000" alt="userform+offset1" src="https://user-images.githubusercontent.com/31890259/190377586-9e346bb7-735a-44e8-9d99-1b58c82794a3.png">
 <hr>
 <img width="1000" alt="userform+offset1" src="https://user-images.githubusercontent.com/31890259/190377737-3d0e4e79-4def-49b9-bb51-60a8259f1a4d.png">
