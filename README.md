@@ -1,6 +1,15 @@
 # Portfolio projects
-## All of my projects in SQL, Tableu, PowerBI, Excel+VBA below:
+## All of my projects in SQL, PowerBI, Excel+VBA, Tableau below:
 
+<details>
+<summary>SQL</summary>
+<br>
+</details>
+
+<details>
+<summary>Power BI</summary>
+<br>
+</details>
 
 <details>
 <summary>Excel + VBA</summary>
