@@ -63,6 +63,18 @@ End Sub
 <hr>
 </details>
 
+<details>
+<summary>Tableau</summary>
+<br>
+
+- Making visualization by using various datasets [Tableau profile here.](https://public.tableau.com/app/profile/goodgrenade)
+
+<img width="1050" alt="Solver" src="https://user-images.githubusercontent.com/31890259/190346432-6aa219dd-629b-4fa9-9388-047490ef4e07.png">
+<hr>
+<img width="1050" alt="Solver" src="https://user-images.githubusercontent.com/31890259/190346655-2b54ec57-9e02-4be4-839e-d7ef87f6e865.png">
+
+</details>
+
 
 
 
