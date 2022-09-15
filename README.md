@@ -4,6 +4,10 @@
 <details>
 <summary>SQL</summary>
 <br>
+
+- Data Exploration by using COVID-19 dataset <br>
+SQL Script [[Script here]](https://github.com/Ciachula/Portfolio/blob/main/sql/Covid%20Portfolio%20Project.sql) 
+  
 </details>
 
 <details>
