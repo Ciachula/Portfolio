@@ -13,6 +13,7 @@
 
 | Project Name | Description | SQL Functions in Project |
 |---|---|---|
+| Covid-19 dataset | | |
 
 <details>
 <summary>SQL</summary>
