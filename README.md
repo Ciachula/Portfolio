@@ -1,14 +1,31 @@
-# Portfolio projects
-## All of my projects in SQL, PowerBI, Excel+VBA, Tableau below:
+# :blue_book:Portfolio projects
+## :green_book:Table of contents with projects below:
+
+- [SQL](#sql)
+- [PowerBI](#powerbi)
+- [Excel+VBA](#excelwithvba)
+- [Tableau](#tableau)
+- [Resources](#resources)
+
+:point_up:_To view my projects from each category click on the title_:point_up:
+***
+# SQL 
+
+| Project Name | Description | SQL Functions in Project |
+|---|---|---|
 
 <details>
 <summary>SQL</summary>
 <br>
-
 - Data Exploration by using COVID-19 dataset <br>
-SQL Script [[Script here]](https://github.com/Ciachula/Portfolio/blob/main/sql/Covid%20Portfolio%20Project.sql) 
-  
+SQL Script [[Script here]](https://github.com/Ciachula/Portfolio/blob/main/sql/Covid%20Portfolio%20Project.sql)  
 </details>
+
+***
+# PowerBI 
+
+| Project Name | Description | Dashboard |
+|---|---|---|
 
 <details>
 <summary>Power BI</summary>
@@ -27,6 +44,11 @@ SQL Script [[Script here]](https://github.com/Ciachula/Portfolio/blob/main/sql/C
 <hr>
 <img width="1000" alt="userform+offset1" src="https://user-images.githubusercontent.com/31890259/190377913-b213e41b-2629-4a21-aaea-2b5cfaf14c17.png">
 </details>
+
+***
+# ExcelwithVBA
+| Project Name | Description | Link to Project |
+|---|---|---|
 
 <details>
 <summary>Excel + VBA</summary>
@@ -89,6 +111,11 @@ End Sub
 <hr>
 </details>
 
+***
+# Tableau
+| Project Name | Description | Dashboard |
+|---|---|---|
+
 <details>
 <summary>Tableau</summary>
 <br>
@@ -100,6 +127,9 @@ End Sub
 <img width="1050" alt="Solver" src="https://user-images.githubusercontent.com/31890259/190346655-2b54ec57-9e02-4be4-839e-d7ef87f6e865.png">
 
 </details>
+
+***
+# 📚Resources
 
 
 
