@@ -41,9 +41,12 @@
 | [Covid-19 dataset](https://public.tableau.com/app/profile/goodgrenade/viz/CovidStats-PortfolioProject/Dashboard1) | Related to SQL project above. Dashboard made with <b>SQL Queries</b>. |
 
 ***
-### 📚Resources
+### 📚Resources 
 - Books:
+  - Cole Nussbaumer Knaflic: Storytelling with Data: A Data Visualization Guide for Business Professionals 
 - Youtube Channels:
+  - [Alex Freberg](https://www.youtube.com/c/alextheanalyst/about)
+  - [Ali Ahmad](https://www.youtube.com/c/AliAhmad1987)
 
 
 
