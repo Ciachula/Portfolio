@@ -53,6 +53,7 @@
 ### Tableau
 | Project Name | Description | Dashboard |
 |---|---|---|
+| Gaming Global Sales | I created dashboard about global sales in the gaming industry. Visualization include Global Sales per Genre, Year with filter by platform | Dashboard here |
 
 <details>
 <summary>Tableau</summary>
