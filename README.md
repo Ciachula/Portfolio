@@ -42,12 +42,12 @@
 
 ***
 ### ExcelwithVBA
-| Project Name | Description | Link to Project |
-|---|---|---|
-| Userform (login+password)| Userform made with VBA and Excel ActiveX control functions. | [View here](https://github.com/Ciachula/Userform-offset) |
-| Offset function | Related to project above. To move data from one sheet to another I used offset function which collaborate with ActiveX. | [View here](https://github.com/Ciachula/Userform-offset) |
-| Excel functions practice | Made own file with data to practice various excel functions. During this practice I used functions such as: VLOOKUP, INDEX with MATCH, SUMIFS. In addition I made Discount Matrix for each Discount and Customer Category. | [View here](https://github.com/Ciachula/Excel-practice) |
-| Data modeling | Another excel practice where I decided to use Excel add-in Solver for data modeling. | [View here](https://github.com/Ciachula/Data-modeling) |
+| Project Name | Description |
+|---|---|
+| [Userform (login+password)](https://github.com/Ciachula/Userform-offset)| Userform made with VBA and Excel ActiveX control functions. |
+| [Offset function](https://github.com/Ciachula/Userform-offset) | Related to project above. To move data from one sheet to another I used offset function which collaborate with ActiveX. | 
+| [Excel functions practice](https://github.com/Ciachula/Excel-practice) | Made own file with data to practice various excel functions. During this practice I used functions such as: VLOOKUP, INDEX with MATCH, SUMIFS. In addition I made Discount Matrix for each Discount and Customer Category. | 
+| [Data modeling](https://github.com/Ciachula/Data-modeling)| Another excel practice where I decided to use Excel add-in Solver for data modeling. | 
 
 ***
 ### Tableau
