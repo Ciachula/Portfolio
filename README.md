@@ -42,7 +42,8 @@
 
 ***
 ### 📚Resources
-
+- Books:
+- Youtube Channels:
 
 
 
