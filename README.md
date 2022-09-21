@@ -49,67 +49,6 @@
 | Excel functions practice | Made own file with data to practice various excel functions. During this practice I used functions such as: VLOOKUP, INDEX with MATCH, SUMIFS. In addition I made Discount Matrix for each Discount and Customer Category. | [View here](https://github.com/Ciachula/Excel-practice) |
 | Data modeling | Another excel practice where I decided to use Excel add-in Solver for data modeling. | [View here](https://github.com/Ciachula/Data-modeling) |
 
-<details>
-<summary>Excel + VBA</summary>
-<br>
-
-- Userform (login+password - VBA) and offset function [[Excel file here.]](https://github.com/Ciachula/Portfolio/tree/main/excel)
-<img width="854" alt="userform+offset1" src="https://user-images.githubusercontent.com/31890259/187172384-016f4a0f-179d-4783-bdf5-b6e602626db0.PNG">
-<br>
-
-````
-Private Sub cmdCancel_Click()
-Unload Me
-End Sub
-
-Private Sub cmdClear_Click()
-
-Me.txtUserID.Value = ""
-Me.txtPassword.Value = ""
-Me.txtUserID.SetFocus
-End Sub
-
-Private Sub cmdLogin_Click()
-
-Dim user As String
-Dim password As String
-
-user = Me.txtUserID.Value
-password = Me.txtPassword.Value
-
-If (user = "admin" And password = "admin") Then
-Unload Me
-Application.Visible = True
-Application.ScreenUpdating = False
-Worksheets("Sheet1").Visible = True
-Worksheets("Sheet2").Visible = True
-Else
-MsgBox "Invalid login credentials, Please try again", vbOKOnly + vbCritical, "Error during login phase"
-End If
-
-Private Sub Workbook_BeforeClose(Cancel As Boolean)
-Application.ScreenUpdating = False
-Worksheets("Sheet1").Visible = xlVeryHidden
-Worksheets("Sheet2").Visible = xlVeryHidden
-ThisWorkbook.Save  
-End Sub
-````
-<hr>
-<img width="892" alt="userform+offset2" src="https://user-images.githubusercontent.com/31890259/187172490-61cdf02c-84a8-4167-afb4-63fd7e17d8d3.PNG">
-<br>
-<hr>
-
-- LOOKUP, INDEX + MATCH, SUMIFS [[Excel file here.]](https://github.com/Ciachula/Portfolio/tree/main/excel)
-<img width="850" alt="Customer_Quote" src="https://user-images.githubusercontent.com/31890259/188129364-01ea1faf-f8df-4b7c-868b-69d3c483da30.PNG">
-<img width="850" alt="Discount_Matrix" src="https://user-images.githubusercontent.com/31890259/188139323-b5c57b1c-0be9-4be2-b168-ea8aa5a3635d.PNG">
-<br>
-<hr>
-  
-- Data modeling using Solver [[Excel file here.]](https://github.com/Ciachula/Portfolio/tree/main/excel)
-<img width="850" alt="Solver" src="https://user-images.githubusercontent.com/31890259/188129477-32cce196-0609-4f29-b829-57603ad15a5c.PNG">
-<hr>
-</details>
-
 ***
 ### Tableau
 | Project Name | Description | Dashboard |
