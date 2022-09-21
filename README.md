@@ -44,6 +44,8 @@
 # ExcelwithVBA
 | Project Name | Description | Link to Project |
 |---|---|---|
+| Userform (login+password)| Userform made with VBA and Excel ActiveX control functions. | View here |
+| Offset function | Related to project above. To move data from one sheet to another I used offset function which collaborate with ActiveX control functions (moving cells up and down). | View here |
 
 <details>
 <summary>Excel + VBA</summary>
