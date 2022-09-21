@@ -51,21 +51,10 @@
 
 ***
 ### Tableau
-| Project Name | Description | Dashboard |
-|---|---|---|
-| Gaming Global Sales | I created dashboard about global sales in the gaming industry. Visualization include Global Sales per Genre, Year with filter by platform | Dashboard here |
-
-<details>
-<summary>Tableau</summary>
-<br>
-
-- Making visualization by using various datasets [[Tableau profile here.]](https://public.tableau.com/app/profile/goodgrenade)
-
-<img width="1050" alt="Solver" src="https://user-images.githubusercontent.com/31890259/190346432-6aa219dd-629b-4fa9-9388-047490ef4e07.png">
-<hr>
-<img width="1050" alt="Solver" src="https://user-images.githubusercontent.com/31890259/190346655-2b54ec57-9e02-4be4-839e-d7ef87f6e865.png">
-
-</details>
+| Project Name | Description |
+|---|---|
+| [Gaming Global Sales](https://public.tableau.com/app/profile/goodgrenade/viz/Book1_16480727620050/Dashboard1) | I created dashboard about global sales in the gaming industry. Visualization include Global Sales per Genre, Year with filter by platform | 
+| [Covid-19 dataset](https://public.tableau.com/app/profile/goodgrenade/viz/CovidStats-PortfolioProject/Dashboard1) | Related to SQL project above. Dashboard made with SQL Queries. |
 
 ***
 ### 📚Resources
