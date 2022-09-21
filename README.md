@@ -17,7 +17,7 @@
 
 
 ***
-## PowerBI 
+### PowerBI 
 
 | Project Name | Description | Dashboard |
 |---|---|---|
@@ -41,7 +41,7 @@
 </details>
 
 ***
-## ExcelwithVBA
+### ExcelwithVBA
 | Project Name | Description | Link to Project |
 |---|---|---|
 | Userform (login+password)| Userform made with VBA and Excel ActiveX control functions. | View here |
@@ -111,7 +111,7 @@ End Sub
 </details>
 
 ***
-## Tableau
+### Tableau
 | Project Name | Description | Dashboard |
 |---|---|---|
 
@@ -128,7 +128,7 @@ End Sub
 </details>
 
 ***
-## 📚Resources
+### 📚Resources
 
 
 
