@@ -42,13 +42,14 @@
 
 ***
 ### 📚Resources 
-- Books:
+- Books
   - Alberto Ferrari and Marco Russo - Analyzing Data with Power BI and Power Pivot for Excel 
   - Bill Jelen and Tracy Syrstad - Microsoft Excel 2019 VBA and Macros
   - Cole Nussbaumer Knaflic - Storytelling with Data - A Data Visualization Guide for Business Professionals
   - Gil Raviv - Collect, Combine, and Transform Data Using Power Query in Excel and Power BI
   - Matt Goldwasser, Upom Malik, Benjamin Johnston - The Applied SQL Data Analytics
-- Youtube Channels:
+<br>
+- Youtube Channels
   - [Alex Freberg](https://www.youtube.com/c/alextheanalyst/about)
   - [Ali Ahmad](https://www.youtube.com/c/AliAhmad1987)
 
