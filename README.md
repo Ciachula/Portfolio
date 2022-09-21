@@ -1,5 +1,5 @@
 # :blue_book:Portfolio projects
-## :green_book:Table of contents with projects below:
+# :green_book:Table of contents with projects below:
 
 - [SQL](#sql)
 - [PowerBI](#powerbi)
