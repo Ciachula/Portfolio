@@ -46,9 +46,8 @@
 |---|---|---|
 | Userform (login+password)| Userform made with VBA and Excel ActiveX control functions. | View here |
 | Offset function | Related to project above. To move data from one sheet to another I used offset function which collaborate with ActiveX control functions (moving cells up and down). | View here |
-| Excel functions practice | Made own file with data to practice various excel functions. During this practice I used functions such as: VLOOKUP, INDEX with MATCH, SUMIFS | View here |
-
-LOOKUP, INDEX + MATCH, SUMIFS 
+| Excel functions practice | Made own file with data to practice various excel functions. During this practice I used functions such as: VLOOKUP, INDEX with MATCH, SUMIFS. In addition I made Discount Matrix for each Discount and Customer Category. | View here |
+| Data modeling | Another excel practice where I decided to use Excel add-in Solver for data modeling. | View here |
 
 <details>
 <summary>Excel + VBA</summary>
