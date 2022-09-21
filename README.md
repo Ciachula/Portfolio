@@ -48,7 +48,8 @@
   - Cole Nussbaumer Knaflic - Storytelling with Data - A Data Visualization Guide for Business Professionals
   - Gil Raviv - Collect, Combine, and Transform Data Using Power Query in Excel and Power BI
   - Matt Goldwasser, Upom Malik, Benjamin Johnston - The Applied SQL Data Analytics
-<br>
+
+
 - Youtube Channels
   - [Alex Freberg](https://www.youtube.com/c/alextheanalyst/about)
   - [Ali Ahmad](https://www.youtube.com/c/AliAhmad1987)
