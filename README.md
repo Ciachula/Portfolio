@@ -13,7 +13,8 @@
 
 | Project Name | Description | SQL Functions in Project |
 |---|---|---|
-| Covid-19 dataset | | |
+| Covid-19 dataset | Looking at global and local Covid-19 cases (Deaths+Vaccinations), comparing home country to others, inspired by Alex Freberg - [Data Exploration Project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1)| <b>Intermediate SQL</b> - Aggregate Functions, Joins  <b>Advanced SQL</b> - Data Wrangling, Writing Subqueries, Window Functions|
+| | | |
 
 <details>
 <summary>SQL</summary>
