@@ -19,8 +19,10 @@
 ***
 ### PowerBI 
 
-| Project Name | Description | Dashboard |
-|---|---|---|
+| Project Name | Description |
+|---|---|
+| Portfolio Visualization 1 | |
+
 
 <details>
 <summary>Power BI</summary>
