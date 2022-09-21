@@ -9,7 +9,7 @@
 
 :point_up:_To view my projects from each category click on the title_:point_up:
 ***
-## SQL 
+### SQL 
 
 | Project Name | Description | SQL Functions in Project |
 |---|---|---|
