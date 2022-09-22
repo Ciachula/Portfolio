@@ -42,7 +42,7 @@
 
 ***
 ### 📚Resources 
-- Books
+- <b>Books</b>
   - Alberto Ferrari and Marco Russo - Analyzing Data with Power BI and Power Pivot for Excel 
   - Bill Jelen and Tracy Syrstad - Microsoft Excel 2019 VBA and Macros
   - Cole Nussbaumer Knaflic - Storytelling with Data - A Data Visualization Guide for Business Professionals
@@ -50,7 +50,7 @@
   - Matt Goldwasser, Upom Malik, Benjamin Johnston - The Applied SQL Data Analytics
 
 
-- Youtube Channels
+- <b>Youtube Channels</b>
   - [Alex Freberg](https://www.youtube.com/c/alextheanalyst/about)
   - [Ali Ahmad](https://www.youtube.com/c/AliAhmad1987)
 
