@@ -9,7 +9,7 @@
 
 :point_up:_To view my projects from each category click on the title_:point_up:
 ***
-### :orange_book:SQL
+### SQL
 
 | Project Name | Description | SQL Functions in Project |
 |---|---|---|
@@ -17,7 +17,7 @@
 
 
 ***
-### :orange_book:PowerBI 
+### PowerBI 
 
 | Project Name | Description |
 |---|---|
@@ -25,7 +25,7 @@
 | [Portfolio Visualization 2](https://github.com/Ciachula/PBIPortfolio2) | Sales Analysis - made with <b>SQL</b> queries and most popular visualizations in Power BI. Made on the basis of [Ali Ahmad Portfolio Project](https://www.youtube.com/watch?v=aavJvdlMaJ4&list=PLMfXakCUhXsEUtk8c0zWr4whamGxLhAu0&index=4).|
 
 ***
-### :orange_book:ExcelwithVBA
+### ExcelwithVBA
 | Project Name | Description |
 |---|---|
 | [Userform (login+password)](https://github.com/Ciachula/Userform-offset)| Userform made with <b>VBA</b> and Excel <b>ActiveX</b> control functions. |
@@ -34,7 +34,7 @@
 | [Data modeling](https://github.com/Ciachula/Data-modeling)| Another excel practice where I decided to use Excel add-in <b>Solver</b> for data modeling. | 
 
 ***
-### :orange_book:Tableau
+### Tableau
 | Project Name | Description |
 |---|---|
 | [Gaming Global Sales](https://public.tableau.com/app/profile/goodgrenade/viz/Book1_16480727620050/Dashboard1) | I created dashboard about global sales in the gaming industry. Visualization include Global Sales per <b>Genre</b>, <b>Year</b> with filter by platform | 
