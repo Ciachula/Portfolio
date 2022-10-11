@@ -53,6 +53,8 @@
 
 - <b>Youtube Channels</b>
   - [Alex Freberg](https://www.youtube.com/c/alextheanalyst/about)
+  - [HowtoPowerBI](https://www.youtube.com/c/HowtoPowerBI)
+  - [SolutionsAbroad](https://www.youtube.com/c/SolutionsAbroad)
   - [Ali Ahmad](https://www.youtube.com/c/AliAhmad1987)
 
 
