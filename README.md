@@ -21,7 +21,7 @@
 
 | Project Name | Description |
 |---|---|
-| [Visualization - Job Application](https://github.com/Ciachula/PBIPortfolio1) | Visualization which I made during Job Interview. Include measures and most popular visualizations |
+| [Visualization - Job Application](https://github.com/Ciachula/PBIPortfolio1) | Visualization which I made during Job Interview. Include most popular visualizations |
 | [Portfolio Visualization 2](https://github.com/Ciachula/PBIPortfolio2) | Data Survey 2022 - data provided by [Alex Freberg](https://www.youtube.com/watch?v=pixlHHe_lNQ) with personal visualization.
 | [Portfolio Visualization 3](https://github.com/Ciachula/PBIPortfolio3) | Sales Analysis - made with <b>SQL</b> queries and most popular visualizations in Power BI. Made on the basis of [Ali Ahmad Portfolio Project](https://www.youtube.com/watch?v=aavJvdlMaJ4&list=PLMfXakCUhXsEUtk8c0zWr4whamGxLhAu0&index=4).|
 
