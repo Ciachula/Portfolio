@@ -19,7 +19,7 @@
 ***
 ### PowerBI 
 
-| Project Name | Description |
+| Project Name | Description | 
 |---|---|
 | [Visualization - Job Application](https://github.com/Ciachula/PBIPortfolio1) | Visualization which I made during Job Interview. Include most popular visualizations |
 | [Portfolio Visualization 2](https://github.com/Ciachula/PBIPortfolio2) | Data Survey 2022 - data provided by [Alex Freberg](https://www.youtube.com/watch?v=pixlHHe_lNQ) with personal visualization.
