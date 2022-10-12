@@ -50,6 +50,9 @@
   - Gil Raviv - Collect, Combine, and Transform Data Using Power Query in Excel and Power BI
   - Matt Goldwasser, Upom Malik, Benjamin Johnston - The Applied SQL Data Analytics
 
+- <b>Online sites</b>
+  - [Kaggle](https://www.kaggle.com/)
+  - [w3schools](https://www.w3schools.com/)
 
 - <b>Youtube Channels</b>
   - [Alex Freberg](https://www.youtube.com/c/alextheanalyst/about)
